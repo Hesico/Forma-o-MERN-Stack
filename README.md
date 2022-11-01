@@ -1,4 +1,4 @@
-#Formação Mern Stack (Em Andamento)
+**Formação Mern Stack (Em Andamento)**
 
 📓**Repositório destinado ao curso de formação Mern Stack da Danki Code**📓
 
